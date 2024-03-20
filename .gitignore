@@ -1,0 +1,4 @@
+PATIENT_DATA/
+venv/
+*.dcm/
+```
